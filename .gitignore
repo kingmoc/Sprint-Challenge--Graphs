@@ -1,3 +1,5 @@
 *.pyc
 graph_adventure/__pycache__/*
 graph_adventure/map.txt
+
+notes.py
